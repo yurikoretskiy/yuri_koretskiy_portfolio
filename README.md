@@ -1,7 +1,5 @@
-Hi!
+Hi! Please see the links to my projects:
 # portfolio
-Please see the links to my projects:
-
 | Project | Libraries used | 
 | :---------------------- | :---------------------- |
 | [Analyze the results for an A/B test for an online store](https://github.com/yurikoretskiy/ab_test_online_shop)| *pandas, numpy, matplotlib, seaborn, scipy* |
