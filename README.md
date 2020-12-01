@@ -1,4 +1,3 @@
-# Portfolio
 Hi! Please see the links to my projects:
 
 | Project | Description | Repository | Libraries used | 
