@@ -1,5 +1,6 @@
+# Portfolio
 Hi! Please see the links to my projects:
-# portfolio
+
 | Project | Libraries used | 
 | :---------------------- | :---------------------- |
 | [Analyzing the results for an A/B test for an online store](https://github.com/yurikoretskiy/ab_test_online_shop)| *pandas, numpy, matplotlib, seaborn, scipy* |
