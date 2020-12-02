@@ -1,5 +1,7 @@
 # Projects:
 
+![](https://github.com/yurikoretskiy/yuri_koretskiy_portfolio/blob/main/images/heatmap.png)
+
 ## 1. [A/B test for an online store](https://github.com/yurikoretskiy/ab_test_online_shop)
    - Validating test results and implementations
    - Provide recomendations about implementing a new feature
