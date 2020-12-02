@@ -12,3 +12,7 @@
     - Analyzing data about competitors.
     
     *Libraries used: pandas, numpy, matplotlib, seaborn, squarify, scipy*<br><br>
+
+***
+#### Glad to keep in touch.
+[LinkedIn: Yuri Koretskiy](https://www.linkedin.com/in/yurikoretskiy/)
