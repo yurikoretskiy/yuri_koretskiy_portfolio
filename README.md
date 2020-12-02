@@ -21,7 +21,8 @@
    - Validate the influence of different factors, such as ratings, historical indicators, and so on.<br>
     
    ![](/images/heatmap.png)
-    *Libraries used: pandas, numpy, matplotlib, seaborn, scipy*<br><br>
+   
+   *Libraries used: pandas, numpy, matplotlib, seaborn, scipy*<br><br>
 
 ***
 #### Glad to keep in touch.
