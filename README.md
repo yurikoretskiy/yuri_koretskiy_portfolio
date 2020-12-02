@@ -12,5 +12,3 @@
     - Analyzing data about competitors.
     
     *Libraries used: pandas, numpy, matplotlib, seaborn, squarify, scipy*<br><br>
-          
-3. BlaBlaBla
