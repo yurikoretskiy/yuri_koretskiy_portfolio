@@ -1,5 +1,7 @@
 <img src="https://github.com/yurikoretskiy/yuri_koretskiy_portfolio/blob/main/images/Sales%20heatmap%20of%20platforms%20by%20years.png">
 
+<img src="https://github.com/yurikoretskiy/yuri_koretskiy_portfolio/blob/main/images/heatmap.png">
+
 # Projects:
 
 ![](https://github.com/yurikoretskiy/yuri_koretskiy_portfolio/blob/main/images/heatmap.png)
