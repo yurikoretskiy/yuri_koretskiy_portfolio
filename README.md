@@ -7,7 +7,7 @@
     
     *Libraries used: pandas, numpy, matplotlib, seaborn, scipy*<br><br>
     
-2. [Market reserach for a taxi company](https://github.com/yurikoretskiy/taxi_market_research)
+2. [Market research for a taxi company](https://github.com/yurikoretskiy/taxi_market_research)
     - Understanding passenger preferences 
     - Analyzing the impact of external factors on rides frequency
     - Analyzing data about competitors.
