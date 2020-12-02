@@ -15,3 +15,6 @@
 <!-- /Yandex.Metrika counter -->
 
 theme: jekyll-theme-slate
+
+jekyll_metrics:
+  yandex_metrica_id: 70008658
