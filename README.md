@@ -1,9 +1,19 @@
-Hi! Please see the links to my projects:
+# Projects:
 
-| Project | Description | Repository | Libraries used | 
-| :---------------------- | :---------------------- | :---------------------- | :---------------------- |
-| [Analyzing the results for an A/B test for an online store](https://github.com/yurikoretskiy/ab_test_online_shop/blob/main/AB_test_online_shop.ipynb) | Analyzing the results for an A/B test for an online store with providing conclusions. | [https://github.com/yurikoretskiy/ab_test_online_shop](https://github.com/yurikoretskiy/ab_test_online_shop) | *pandas, numpy, matplotlib, seaborn, scipy* |
-| [Analyzing the market for a taxi company](https://github.com/yurikoretskiy/taxi_market_research/blob/main/taxi_market_research.ipynb) | Understanding passenger preferences and the impact of external factors on rides, e.g., weather on ride frequency; Analyzing data about competitors. | [https://github.com/yurikoretskiy/taxi_market_research](https://github.com/yurikoretskiy/taxi_market_research) | *pandas, numpy, matplotlib, seaborn, squarify, scipy* |
+1. [A/B test for an online store](https://github.com/yurikoretskiy/ab_test_online_shop)
+    - Validating test results and implementations
+    - Provide recomendations about implementing a new feature
+    
+    *Libraries used: pandas, numpy, matplotlib, seaborn, scipy*<br><br>
+    
+2. [Market reserach for a taxi company](https://github.com/yurikoretskiy/taxi_market_research)
+    - Understanding passenger preferences 
+    - Analyzing the impact of external factors on rides frequency
+    - Analyzing data about competitors.
+    
+    *Libraries used: pandas, numpy, matplotlib, seaborn, squarify, scipy*<br><br>
 
-Glad to keep in touch.
+***
+#### Glad to keep in touch.
 [LinkedIn: Yuri Koretskiy](https://www.linkedin.com/in/yurikoretskiy/)
+
