@@ -19,8 +19,9 @@
 ## 3. [Research for the market of online games](https://github.com/yurikoretskiy/games_market_research)
    - Analyze and provide recommendations about sales of video games by genre, platform, region e.t.c.
    - Validate the influence of different factors, such as ratings, historical indicators, and so on.<br>
-    ![](/images/heatmap.png)<br>
-    *Libraries used: pandas, numpy, matplotlib, seaborn, scipy*<br><br>
+   
+     ![](/images/heatmap.png)
+     *Libraries used: pandas, numpy, matplotlib, seaborn, scipy*<br><br>
 
 ***
 #### Glad to keep in touch.
