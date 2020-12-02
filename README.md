@@ -1,10 +1,6 @@
-<img src="/images/Sales%20heatmap%20of%20platforms%20by%20years.png">
-
-<img src="/images/heatmap.png">
-
 # Projects:
 
-![](/images/heatmap.png)
+
 
 ## 1. [A/B test for an online store](https://github.com/yurikoretskiy/ab_test_online_shop)
    - Validating test results and implementations
@@ -24,7 +20,7 @@
    - Analyze and provide recommendations about sales of video games by genre, platform, region e.t.c.
    - Validate the influence of different factors, such as ratings, historical indicators, and so on.<br>
     
-   <img src="/images/Sales%20heatmap%20of%20platforms%20by%20years.png"><br>
+   ![](/images/heatmap.png)
     *Libraries used: pandas, numpy, matplotlib, seaborn, scipy*<br><br>
 
 ***
