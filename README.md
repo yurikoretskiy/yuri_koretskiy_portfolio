@@ -13,9 +13,10 @@
 ## 2. [Market research for a taxi company](https://github.com/yurikoretskiy/taxi_market_research)
    - Understanding passenger preferences 
    - Analyzing the impact of external factors on rides frequency
-   - Analyzing data about competitors
-    
-   *Libraries used: pandas, numpy, matplotlib, seaborn, squarify, scipy*<br><br>
+   - Analyzing data about competitors<br>
+   
+     ![](/images/taxi_share.png)<br> 
+     *Libraries used: pandas, numpy, matplotlib, seaborn, squarify, scipy*<br><br>
     
 ## 3. [Research for the market of online games](https://github.com/yurikoretskiy/games_market_research)
    - Analyze and provide recommendations about sales of video games by genre, platform, region e.t.c.
