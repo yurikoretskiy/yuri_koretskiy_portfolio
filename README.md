@@ -7,7 +7,6 @@
    - Provide recomendations about implementing a new feature<br>
    
      ![](/images/cum_rev_group.png)<br>
-
      ![](/images/bubble_revenue.png)<br>
      *Libraries used: pandas, numpy, matplotlib, seaborn, scipy*<br><br>
     
