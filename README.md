@@ -38,7 +38,7 @@
    - Investigate the results of an A/A/B test<br>
    
      ![](/images/funnel.png)<br>
-     *Libraries used: pandas, numpy, matplotlib, seaborn, scipy*<br><br>
+     *Libraries used: pandas, numpy, matplotlib, seaborn, plotly, scipy*<br><br>
 
 ***
 #### Glad to keep in touch.
