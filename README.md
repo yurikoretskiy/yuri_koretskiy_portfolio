@@ -25,7 +25,7 @@
      ![](/images/heatmap.png)<br>
      *Libraries used: pandas, numpy, matplotlib, seaborn, scipy*<br><br>
 
-## 4. [Analysis of business metrics for users acquisition](https://github.com/yurikoretskiy/games_market_research)
+## 4. [Analysis of business metrics for users acquisition](https://github.com/yurikoretskiy/cohort_business_metrics)
    - Analyze logs of visit, orders and marketing expenses
    - Calculate Churn, Retention, LTV, CAC, ROI
    - Provide suggestions on how to optimize marketing expenses for online platform<br>
