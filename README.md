@@ -33,6 +33,12 @@
      ![](/images/user_retention.png)<br>
      *Libraries used: pandas, numpy, matplotlib, seaborn, scipy*<br><br>
 
+## 5. [Investigation of users behavior for the company's app towards changes in the font](https://github.com/yurikoretskiy/conversion_funnel)
+   - Calculate, print and study the events funnel
+   - Investigate the results of an A/A/B test<br>
+   
+     ![](/images/funnel.png)<br>
+     *Libraries used: pandas, numpy, matplotlib, seaborn, scipy*<br><br>
 
 ***
 #### Glad to keep in touch.
